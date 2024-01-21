@@ -6,6 +6,6 @@ B - OK;
 D - TL;
 F - TL.
 
-Backend (https://contest.yandex.ru/contest/54290/):\n
+Backend (https://contest.yandex.ru/contest/54290/):
 A - OK;
 B - OK.
