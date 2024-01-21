@@ -1,11 +1,11 @@
 Решения задач с квалификации Yandex Cup 2023.
 
-Algorithm (https://contest.yandex.ru/contest/54452/):\n
-A - OK\n
-B - OK\n
-D - TL\n
-F - TL\n
+Algorithm (https://contest.yandex.ru/contest/54452/):
+A - OK;
+B - OK;
+D - TL;
+F - TL.
 
 Backend (https://contest.yandex.ru/contest/54290/):\n
-A - OK\n
-B - OK
+A - OK;
+B - OK.
